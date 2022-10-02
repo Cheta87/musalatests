@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusalaTests", "MusalaTests.csproj", "{99688E6F-22D5-4062-B7D7-D0575291AD9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "..\Runner\Runner.csproj", "{7AC37B9F-1498-49A1-87D9-0777E3C6EA34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99688E6F-22D5-4062-B7D7-D0575291AD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99688E6F-22D5-4062-B7D7-D0575291AD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99688E6F-22D5-4062-B7D7-D0575291AD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99688E6F-22D5-4062-B7D7-D0575291AD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC37B9F-1498-49A1-87D9-0777E3C6EA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC37B9F-1498-49A1-87D9-0777E3C6EA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC37B9F-1498-49A1-87D9-0777E3C6EA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC37B9F-1498-49A1-87D9-0777E3C6EA34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B0A677A-31E0-4C3F-AD5B-AD2E22189C8E}
+	EndGlobalSection
+EndGlobal
